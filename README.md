@@ -1,7 +1,7 @@
 kc.nut
 ---------------
 
-VScript to use almost all knife models on a local server.
+VScript to use almost all knife models on a local server. in CS:GO.
 
 Installation and Usage
 ---------------
